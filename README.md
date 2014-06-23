@@ -13,7 +13,7 @@ Although this project uses Node tools for Visual Studio, Visual Studio isn't req
 
 3) Get a Bart API at http://www.bart.gov/schedules/developers/api
 
-4) Set an environment variable BartNow.ApiKey="<YOUR API KEY>"
+4) Set an environment variable BartNow.ApiKey="YOUR API KEY"
 
 5) node app.js
 
