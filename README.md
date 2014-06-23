@@ -28,7 +28,7 @@ GET /stations
 
 Returns a list of stations with current applicable estimated time to departures (etd)
 
-GET /stations/<abbreviation>
+GET /stations/STATION-ABBREVIATION
 
 Returns the station data and estimated arrivals for a particular station. Abbrevations can be found from the station data provided by /stations.
 
